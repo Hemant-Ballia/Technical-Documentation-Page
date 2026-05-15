@@ -26,7 +26,8 @@ This project demonstrates responsive layouts, fixed sidebar navigation, structur
 
 ## 📸 Preview
 
-![Technical Documentation Page](preview.png)
+<img width="776" height="525" alt="image" src="https://github.com/user-attachments/assets/a0fabcbe-5e60-4abc-9f8f-0d5c34b05ca0" />
+
 
 ---
 
